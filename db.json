@@ -1,0 +1,158 @@
+{
+    "movies": [
+      {
+        "id": "tt0111161",
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZjQwLTg3NTAtMWYwMzU2ZGQzNWEzXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+        "genre": ["Drama"],
+        "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt0068646",
+        "title": "The Godfather",
+        "year": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjY0OTYzMF5BMl5BanBnXkFtZTcwNjEwNjYxMw@@._V1_SX300.jpg",
+        "genre": ["Crime", "Drama"],
+        "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "averageRating": 4.9
+      },
+      {
+        "id": "tt0071562",
+        "title": "The Godfather: Part II",
+        "year": 1974,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2Y5YjIzNzAtNTBmZC00ZmFlLThmMGMtYzY0ZGQ2OTYzMGE3XkEyXkFqcGdeQXVyMjM5Nzk4NzM@._V1_SX300.jpg",
+        "genre": ["Crime", "Drama"],
+        "plot": "The early life and career of Vito Corleone in 1920s New York is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt0468569",
+        "title": "The Dark Knight",
+        "year": 2008,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NzM4NTM4M15BMl5BanBnXkFtZTcwNjYwMzYwOA@@._V1_SX300.jpg",
+        "genre": ["Action", "Crime", "Drama"],
+        "plot": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "averageRating": 4.7
+      },
+      {
+        "id": "tt0137523",
+        "title": "Fight Club",
+        "year": 1999,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmM5NmY1NjktODg5Zi00NjBkLTg0NzgtMDEzZWRmZjFkYmU1XkEyXkFqcGdeQXVyNjQ2NzA0MzI@._V1_SX300.jpg",
+        "genre": ["Drama"],
+        "plot": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much, much more.",
+        "averageRating": 4.7
+      },
+      {
+        "id": "tt0109830",
+        "title": "Forrest Gump",
+        "year": 1994,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmUyZTk3MGYtNDY0OS00ZGIwLTg1YzAtZDRhOTg4NjAwZTY4XkEyXkFqcGdeQXVyNjYwMjMwMjY@._V1_SX300.jpg",
+        "genre": ["Drama", "Romance"],
+        "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary life.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt1375666",
+        "title": "Inception",
+        "year": 2010,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzYyNzM0Ml5BMl5BanBnXkFtZTcwMzY0NzQ2Mw@@._V1_SX300.jpg",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "plot": "A thief who enters the dreams of others to steal secrets from their subconscious is given the inverse task of planting an idea into the mind of a CEO.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt0110912",
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjY0NjAtNzI1OS00ZGI2LTg0YjYtNzM4NTFkYmJlZGExXkEyXkFqcGdeQXVyNDcxOTY0NzA@._V1_SX300.jpg",
+        "genre": ["Crime", "Drama"],
+        "plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "averageRating": 4.9
+      },
+      {
+        "id": "tt0120338",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTU4MDgyOV5BMl5BanBnXkFtZTcwNDA3NzM5Mw@@._V1_SX300.jpg",
+        "genre": ["Action", "Adventure", "Drama"],
+        "plot": "A young hobbit, Frodo Baggins, is tasked with the mission to destroy the One Ring in the fires of Mount Doom, where it was forged.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt0499549",
+        "title": "Avatar",
+        "year": 2009,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NjM3NTYxMF5BMl5BanBnXkFtZTcwNDQ5MjQwMw@@._V1_SX300.jpg",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "averageRating": 4.7
+      },
+      {
+        "id": "tt0133093",
+        "title": "The Matrix",
+        "year": 1999,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE2ODg0MjUyNF5BMl5BanBnXkFtZTcwNDM3NTMwMg@@._V1_SX300.jpg",
+        "genre": ["Action", "Sci-Fi"],
+        "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt1856101",
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM5NzA5NjA2NF5BMl5BanBnXkFtZTgwNTc1OTI3MzE@._V1_SX300.jpg",
+        "genre": ["Action", "Adventure", "Comedy"],
+        "plot": "A group of intergalactic criminals must pull together to stop a fanatical warrior from taking control of the universe.",
+        "averageRating": 4.7
+      },
+      {
+        "id": "tt0317248",
+        "title": "The Incredibles",
+        "year": 2004,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzA1NzY1NzMwMF5BMl5BanBnXkFtZTcwNjU5ODk3Mw@@._V1_SX300.jpg",
+        "genre": ["Action", "Adventure", "Animation"],
+        "plot": "The Parr family, a family of undercover superheroes, tries to live the quiet suburban life, but is forced into action to save the world.",
+        "averageRating": 4.7
+      },
+      {
+        "id": "tt0120915",
+        "title": "Titanic",
+        "year": 1997,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzMwNzA4MV5BMl5BanBnXkFtZTcwODc2Nzg0OA@@._V1_SX300.jpg",
+        "genre": ["Drama", "Romance"],
+        "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "averageRating": 4.7
+      },
+      {
+        "id": "tt1392170",
+        "title": "The Avengers",
+        "year": 2012,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjYwMTkzN15BMl5BanBnXkFtZTcwMzE2OTg1Nw@@._V1_SX300.jpg",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt0073486",
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MzkxMjY5Nl5BMl5BanBnXkFtZTgwMDE3Nzc5MjE@._V1_SX300.jpg",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "plot": "Luke Skywalker joins forces with a Jedi knight, a cocky pilot, a Wookiee, and two droids to rescue Princess Leia from the evil forces of the Empire.",
+        "averageRating": 4.8
+      },
+      {
+        "id": "tt0038650",
+        "title": "Casablanca",
+        "year": 1942,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyZTczOTQtZDg0ZC00M2ZkLWFhMmUtZmUyZGE5YzBmMTYyXkEyXkFqcGdeQXVyNzUzNjY5MjI@._V1_SX300.jpg",
+        "genre": ["Drama", "Romance"],
+        "plot": "In World War II Casablanca, a cynical expatriate American cafe owner struggles to decide whether or not he should help his former lover and her fugitive husband escape the Vichy-controlled city.",
+        "averageRating": 4.9
+      }
+    ]
+  }
+  
